@@ -5,5 +5,8 @@ In this study we explore the fine-tuning of various machine learning algorithms:
 
 All the experiments conducted in this study were based on the dataset comprising text from works of fiction written by renowned authors of the public domain: Edgar Allan Poe, H.P. Lovecraft and Mary Shelley. Every algorithm undergoes fine-tuning via grid search and cross-validation within limited computational resources, ensuring a detailed exploration of the hyperparameter space.
 
+## Notebook
+[spooky_author_identification.ipynb](spooky_author_identification.ipynb)
+
 ## License
 This project is licensed under the MIT License.
